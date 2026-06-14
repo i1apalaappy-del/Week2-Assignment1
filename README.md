@@ -1,12 +1,4 @@
-# Week 2 Assignment 1
+Name: Apala Kapoor
+Enrollment Number: 02601012025
+College Name: Igdtuw 
 
-Name: Your Name
-
-Enrollment Number: Your Enrollment Number
-
-## Description
-This repository contains the solution for Week 2 Assignment 1.
-
-## Files
-- Python program(s)
-- Dataset 2.csv
